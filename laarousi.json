@@ -1,0 +1,200 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"Yahbabi Ghadi Nahbal",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=55986",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+      {
+         "song_name":"3awjok 3adyani",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=55987",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+      {
+         "song_name":"Machi Darori",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=55988",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Cocktail Chaabi ",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=49205",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Hta Ndirha Ou Nandam",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=48854",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Zinek Khatar ",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=39505",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Atough Tamara",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=39506",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Marmi Ya Marmi",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=39507",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Raghayed",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=39508",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Sam7ayi",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=39509",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Sbar Zininou",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=39510",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Machi Darori",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=37137",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=12307",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=12308",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=12309",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=12310",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=12311",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=12312",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=24621",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=24622",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=24623",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=24624",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+           {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=24626",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+           {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=24627",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+           {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=24628",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+           {
+         "song_name":"La Tgoulich La",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=26669",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+           {
+         "song_name":"Kont 7asba Soghri Dayem",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=23080",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+           {
+         "song_name":"hesdouni bghaw y9diw 3liya",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=23081",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+           {
+         "song_name":"rani talba lfra9",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=23082",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+           {
+         "song_name":"Track",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=24624",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      },
+        {
+         "song_name":"la tbkich ya lmima",
+         "artist":"Nadia Laaroussi",
+         "song_link":"https://www.nozika.co//down.php?s_id=23083",
+         "image":"https://od.lk/s/NzJfNDMyNDUyMjJf/gnawi.png"
+      }
+   ]
+}
